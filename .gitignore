@@ -1,0 +1,8 @@
+Climber.xcodeproj/xcuserdata/
+Climber.xcworkspace/
+Pods/
+node_modules/
+*.swp
+Podfile.lock
+.DS_Store
+Climber.xcodeproj/project.xcworkspace/xcuserdata/
